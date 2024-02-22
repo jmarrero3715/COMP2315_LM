@@ -1,2 +1,4 @@
 # COMP2315_LM
-Curso de Programacion Estructurada Lunes y Miercoles
+## Autor: Jazelis Marrero Negrón 
+Curso de Programación Estructurada Lunes y Miércoles
+
